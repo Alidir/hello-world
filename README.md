@@ -1,2 +1,4 @@
 # hello-world
-Test
+
+This is part of the GitHub tutorial. 
+It can be found on https://guides.github.com/activities/hello-world/
